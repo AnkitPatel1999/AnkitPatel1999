@@ -1,7 +1,7 @@
 ### Hi there 👋
-⚡ Are you looking for any help in web technology? I love to help you. ping me on LinkedIn or any other way
-⚡ I love to teaching in web techology
-⚡ I am great in web techology.
+⚡ Are you looking for any help in web technology? I love to help you. ping me on LinkedIn or any other way  
+⚡ I love to teaching in web techology  
+⚡ I am great in web techology.  
 ⚡ I have experience in various web technology like...  
     **Technology**: HTML, CSS, JavaScript, Java, C, C++, PHP  
     **Framework**: Bootstrap, Angular, Reactjs, Nodejs, Expressjs  
