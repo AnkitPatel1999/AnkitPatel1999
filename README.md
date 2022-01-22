@@ -8,7 +8,7 @@
     **Database**: MySql, Firebase, MongoDB, TypeORM  
 
 Portfolio:
-http://patelankit.me/
+https://patelankit.me/
 
 
 
