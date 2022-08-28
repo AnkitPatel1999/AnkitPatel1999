@@ -1,11 +1,11 @@
 ### Hi there 👋
 ⚡ I have experience in various web technology like...  
-    **Technology**: HTML, CSS, JavaScript, Java, C, C++, PHP  
-    **Framework**: Bootstrap, Angular, Reactjs, Nodejs, Expressjs  
+    **Technology**: HTML, CSS, JavaScript, jQuery, AJAX, Java, C, C++, PHP  
+    **Framework**: Bootstrap, Angular, Reactjs, Vuejs, Nodejs, Expressjs  
     **Database**: MySql, Firebase, MongoDB, TypeORM  
 
 Portfolio:
-https://patelankit.me/
+https://ankitpatel.online/
 
 
 
