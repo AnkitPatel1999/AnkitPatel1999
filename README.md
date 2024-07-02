@@ -1,6 +1,7 @@
 ### Hi there 👋
 ⚡Very good working experience with Graphic Designer, Marketing and Support team,
    I'm Full stack web developer with background knowledge of MERN,MEVN and MEAN stacks with  Firebase, MySQL, PHP, AJAX, jQuery, Bootstrap, AWS, SEO.
+
     **Technology**: HTML, CSS, JavaScript, jQuery, AJAX, Java, C, C++, PHP  
     **Framework**: Bootstrap, Angular, Reactjs, Vuejs, Nodejs, Expressjs  
     **Database**: MySql, Firebase, MongoDB, TypeORM  
